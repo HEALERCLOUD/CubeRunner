@@ -29,7 +29,13 @@ CubeRunner is a simple 3D game where you control a cube that tries its best to a
 
 - Unity installed on your development machine.
 
+### Making Changes
+Feel free to fork the repository and make changes as needed. If you have improvements or new features to contribute, create a pull request, and we'll review it.
+
+
+
 ### Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/CubeRunner.git
+
